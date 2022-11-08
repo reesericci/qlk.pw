@@ -1,6 +1,6 @@
 $ORIGIN qlk.pw.
 @	3600 IN	SOA sns.dns.icann.org. noc.dns.icann.org. (
-				2017042745 ; serial
+				2022110701 ; serial
 				7200       ; refresh (2 hours)
 				3600       ; retry (1 hour)
 				1209600    ; expire (2 weeks)
@@ -12,4 +12,4 @@ $ORIGIN qlk.pw.
 
 @     IN A  75.2.60.5
 www     IN CNAME idyllic-kitsune-059759.netlify.app.
-test     IN CNAME biden-tv.vercel.app.
+;test     IN CNAME biden-tv.vercel.app.
