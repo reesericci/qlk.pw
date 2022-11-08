@@ -12,4 +12,4 @@ $ORIGIN qlk.pw.
 
 @     IN A  75.2.60.5
 www     IN CNAME idyllic-kitsune-059759.netlify.app.
-; test     IN CNAME biden-tv.vercel.app.
+test     IN CNAME biden-tv.vercel.app.
